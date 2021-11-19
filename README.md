@@ -24,7 +24,7 @@ than ever before
 6. Lastly, learned what sentiment analysis is and how we can find the sentiment of any text data.
 
 # Note:
-The first step before starting the project is to create a developer's account on twitter using the link given below. Condition, Only existing Twitter user can create a developers account.
-link: https://developer.twitter.com/
-Next, you have to answer all the questions asked in the information and remember to answer clearly rather than copying from google.
-After successfully creating the developer's account you need to create an app project and generate the consumer and api access token for this project for the tweepy authentication
+1. The first step before starting the project is to create a developer's account on twitter using the link given below. Condition, Only existing Twitter user can create a developers account.
+. link: https://developer.twitter.com/
+2. Next, you have to answer all the questions asked in the information and remember to answer clearly rather than copying from google.
+3. After successfully creating the developer's account you need to create an app project and generate the consumer and api access token for this project for the tweepy authentication
